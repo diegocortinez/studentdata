@@ -1,0 +1,151 @@
+Neighbourhood,IncomeBracket,StayAtHome,ConvictedFamily,CollegeEducatedFamily,LivingParents,PriorSuspensions,RiskLevel
+bridgeport,"Below $75,000",no,yes,0,1,yes,high
+back of the yards,"Below $75,000",yes,yes,0,2,yes,high
+bridgeport,"$75,000 - $200,000",no,yes,1,1,no,high
+kenwood,"Below $75,000",yes,yes,1,1,no,high
+mount greenwood,"Over $200,000",no,no,0,2,yes,high
+near north side,"Below $75,000",no,no,0,1,yes,high
+bridgeport,"$75,000 - $200,000",no,no,0,2,yes,high
+west town,"Below $75,000",no,yes,0,2,yes,high
+back of the yards,"Below $75,000",no,no,0,2,no,high
+bridgeport,"$75,000 - $200,000",no,yes,2,1,no,high
+kenwood,"Below $75,000",yes,yes,2,1,no,high
+near west side,"Below $75,000",no,yes,0,1,no,high
+uptown,"$75,000 - $200,000",no,yes,0,1,yes,high
+back of the yards,"Below $75,000",no,no,2,2,yes,high
+mount greenwood,"Over $200,000",yes,no,0,1,yes,high
+near west side,"Below $75,000",no,yes,0,1,no,high
+kenwood,"Below $75,000",no,yes,0,1,yes,high
+beverly,"$75,000 - $200,000",no,yes,0,2,yes,high
+mount greenwood,"Below $75,000",yes,no,0,1,no,high
+back of the yards,"Below $75,000",no,yes,0,1,no,high
+bridgeport,"$75,000 - $200,000",no,yes,0,2,yes,high
+mount greenwood,"Over $200,000",no,yes,1,1,no,high
+back of the yards,"$75,000 - $200,000",no,yes,0,2,no,high
+bridgeport,"Over $200,000",no,yes,0,2,no,high
+hyde park,"$75,000 - $200,000",yes,yes,0,2,yes,high
+bridgeport,"Below $75,000",yes,yes,0,2,no,high
+back of the yards,"Over $200,000",no,no,0,1,no,high
+bridgeport,"Below $75,000",no,no,0,2,no,high
+hyde park,"$75,000 - $200,000",no,yes,0,2,no,high
+beverly,"Below $75,000",yes,yes,2,2,yes,high
+hyde park,"Below $75,000",no,no,0,1,no,high
+mount greenwood,"Below $75,000",no,no,0,2,no,high
+near west side,"Below $75,000",no,yes,0,2,yes,high
+beverly,"Below $75,000",no,no,0,2,no,high
+mount greenwood,"Over $200,000",no,yes,1,2,yes,high
+hyde park,"Below $75,000",no,no,0,2,yes,high
+loop,"Below $75,000",no,yes,0,1,no,high
+back of the yards,"Below $75,000",yes,no,0,1,no,high
+bridgeport,"$75,000 - $200,000",no,yes,0,2,no,high
+kenwood,"Below $75,000",yes,no,0,2,yes,high
+near north side,"Below $75,000",yes,yes,0,1,yes,high
+west town,"Over $200,000",no,yes,0,1,yes,high
+back of the yards,"Below $75,000",no,no,0,2,no,high
+kenwood,"Below $75,000",no,no,0,2,no,high
+near north side,"Below $75,000",yes,yes,0,1,yes,high
+back of the yards,"Below $75,000",no,no,0,2,yes,high
+near north side,"$75,000 - $200,000",yes,no,1,2,no,low
+uptown,"$75,000 - $200,000",yes,no,0,1,no,low
+loop,"Over $200,000",yes,no,0,1,no,low
+near north side,"Below $75,000",yes,no,2,1,no,low
+loop,"$75,000 - $200,000",yes,yes,2,2,yes,low
+near west side,"Below $75,000",yes,yes,2,2,no,low
+west town,"Over $200,000",no,no,0,2,no,low
+uptown,"$75,000 - $200,000",no,no,0,2,no,low
+lincoln square,"Over $200,000",yes,no,1,1,no,low
+lincoln square,"Over $200,000",no,yes,2,2,no,low
+near north side,"Below $75,000",yes,no,1,2,no,low
+loop,"$75,000 - $200,000",yes,no,1,2,no,low
+west town,"Over $200,000",yes,no,2,2,no,low
+near west side,"Below $75,000",yes,no,2,2,no,low
+loop,"$75,000 - $200,000",no,no,1,2,no,low
+west town,"Over $200,000",no,no,0,2,no,low
+uptown,"$75,000 - $200,000",no,no,0,2,no,low
+lincoln square,"Over $200,000",no,no,0,2,no,low
+beverly,"$75,000 - $200,000",yes,no,2,2,no,low
+mount greenwood,"Over $200,000",yes,no,2,2,no,low
+near north side,"$75,000 - $200,000",yes,no,0,2,no,low
+loop,"Over $200,000",no,no,0,2,no,low
+west town,"Below $75,000",no,no,2,2,no,low
+near west side,"Over $200,000",no,no,0,2,no,low
+west town,"Over $200,000",yes,yes,0,2,no,low
+near north side,"Over $200,000",yes,no,1,2,no,low
+loop,"$75,000 - $200,000",no,no,1,2,no,low
+near north side,"$75,000 - $200,000",yes,no,0,2,no,low
+loop,"$75,000 - $200,000",yes,yes,0,2,no,low
+west town,"Over $200,000",yes,yes,0,2,no,low
+uptown,"$75,000 - $200,000",no,no,0,2,no,low
+lincoln square,"Over $200,000",no,no,0,2,no,low
+kenwood,"Over $200,000",yes,no,2,2,no,low
+near north side,"Below $75,000",yes,no,0,2,no,low
+loop,"Over $200,000",yes,yes,0,2,no,low
+near west side,"$75,000 - $200,000",yes,yes,0,2,no,low
+uptown,"Over $200,000",yes,yes,0,2,no,low
+beverly,"Over $200,000",yes,no,2,2,no,low
+west town,"$75,000 - $200,000",yes,yes,0,2,no,low
+near west side,"Over $200,000",yes,no,0,1,no,low
+lincoln square,"Over $200,000",yes,no,0,1,no,low
+loop,"$75,000 - $200,000",yes,yes,2,1,no,low
+uptown,"$75,000 - $200,000",no,no,0,2,no,low
+lincoln square,"Over $200,000",no,no,0,2,no,low
+bridgeport,"$75,000 - $200,000",yes,no,2,2,no,low
+loop,"$75,000 - $200,000",yes,yes,0,2,no,low
+west town,"Over $200,000",yes,no,0,1,no,low
+near west side,"Below $75,000",yes,no,0,2,no,low
+uptown,"$75,000 - $200,000",no,no,0,2,no,low
+lincoln square,"Over $200,000",no,no,0,2,no,low
+hyde park,"Over $200,000",yes,yes,1,2,no,medium
+near west side,"Below $75,000",no,no,1,2,yes,medium
+lincoln square,"Over $200,000",no,no,1,1,no,medium
+hyde park,"Over $200,000",yes,yes,2,1,no,medium
+beverly,"$75,000 - $200,000",yes,yes,1,1,no,medium
+loop,"$75,000 - $200,000",no,no,0,1,no,medium
+west town,"Over $200,000",no,no,0,1,no,medium
+lincoln square,"Over $200,000",no,no,1,1,yes,medium
+hyde park,"Over $200,000",yes,yes,2,2,yes,medium
+beverly,"$75,000 - $200,000",yes,no,0,2,no,medium
+near north side,"Below $75,000",no,no,0,1,no,medium
+loop,"$75,000 - $200,000",no,no,0,1,no,medium
+back of the yards,"Below $75,000",no,no,0,2,no,high
+bridgeport,"$75,000 - $200,000",yes,yes,2,2,no,medium
+uptown,"$75,000 - $200,000",no,no,0,1,no,medium
+lincoln square,"Over $200,000",no,no,0,1,no,medium
+hyde park,"Below $75,000",yes,no,1,0,no,medium
+kenwood,"Below $75,000",yes,no,1,2,yes,medium
+beverly,"$75,000 - $200,000",yes,no,1,2,no,medium
+near north side,"Below $75,000",no,yes,0,1,no,high
+near west side,"Below $75,000",no,no,0,2,no,medium
+kenwood,"$75,000 - $200,000",yes,no,0,2,no,medium
+uptown,"Below $75,000",no,no,0,2,no,medium
+lincoln square,"$75,000 - $200,000",no,yes,0,2,yes,medium
+hyde park,"$75,000 - $200,000",no,no,0,2,no,medium
+kenwood,"Over $200,000",yes,no,0,2,no,medium
+mount greenwood,"Below $75,000",no,no,0,2,no,high
+west town,"Over $200,000",no,yes,1,2,no,medium
+near west side,"$75,000 - $200,000",no,yes,2,2,yes,medium
+uptown,"Over $200,000",no,yes,0,2,no,medium
+lincoln square,"Below $75,000",no,yes,0,2,no,medium
+back of the yards,"$75,000 - $200,000",yes,no,0,2,no,medium
+bridgeport,"Over $200,000",yes,no,0,2,no,medium
+kenwood,"$75,000 - $200,000",no,no,0,2,no,medium
+beverly,"Over $200,000",yes,no,0,2,no,medium
+back of the yards,"$75,000 - $200,000",no,no,0,1,no,high
+bridgeport,"Over $200,000",no,no,2,2,no,medium
+hyde park,"Below $75,000",yes,no,2,2,no,medium
+west town,"Below $75,000",yes,yes,0,2,no,medium
+lincoln square,"Below $75,000",no,no,0,2,yes,medium
+back of the yards,"$75,000 - $200,000",no,no,0,2,no,medium
+bridgeport,"Over $200,000",no,no,0,2,no,medium
+kenwood,"$75,000 - $200,000",no,no,0,2,no,medium
+mount greenwood,"Below $75,000",yes,no,2,2,no,medium
+near north side,"Over $200,000",no,yes,0,2,no,medium
+uptown,"Below $75,000",yes,no,0,1,no,medium
+hyde park,"Over $200,000",no,no,0,2,no,medium
+beverly,"$75,000 - $200,000",yes,no,0,2,no,medium
+mount greenwood,"Over $200,000",yes,no,0,1,no,medium
+near west side,"Below $75,000",no,yes,0,2,no,medium
+hyde park,"Over $200,000",yes,no,0,2,no,medium
+beverly,"$75,000 - $200,000",no,no,0,2,no,medium
+mount greenwood,"Over $200,000",yes,yes,2,2,no,medium
+bridgeport,"$75,000 - $200,000",yes,no,0,2,no,medium
